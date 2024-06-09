@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risknz&label=Profile%20views&color=0e75b6&style=flat" alt="risknz" /> </p>
 
-- 🔭 I’m currently working on **Building a RPG**
+- 🔭 I’m currently working on **Building an RPG based off of Planet of the Apes!**
 
 - 🌱 I’m currently learning **Data Visualization Certification**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rskmusic@icloud.com**
 
-- ⚡ Fun fact **I took Optional University classes/certificates at 11!**
+- ⚡ Fun fact **I took High School Diploma computing classes at 11!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
