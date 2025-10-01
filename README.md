@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risknz&label=Profile%20views&color=0e75b6&style=flat" alt="risknz" /> </p>
 
-- 🔭 I’m currently working on **Finding consistent work!!!....**
+- 🔭 I’m currently working on **Finding Work!!!....**
 
 - 🌱 I’m currently learning **Data Visualization Certification**
 
